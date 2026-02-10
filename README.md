@@ -1,6 +1,6 @@
 ## Hi, I'm Hannah
 
-Entry-level software engineer focusing on backend development<br/>
+Entry level software engineer focusing on backend development<br/>
 Experience in building applications using Java, Javascript, and Node.js<br/>
 Interested in working with scalable systems<br/>
 
